@@ -1,0 +1,38 @@
+It seems the resources predominantly highlight books or other paid sources. I will refine the search for free-access articles or open-access resources. Please hold on.
+
+Here are several open-access resources and articles on computer vision in agri-robotics:
+
+### Key Open-Access Resources:
+1. **Training the UK Agri-food Sector to Employ Robotics and Autonomous Systems**  
+   - Discusses public access and safety challenges for autonomous farm vehicles and solutions using computer vision.  
+   - **Access:** [PDF Link](https://hau.repository.guildhe.ac.uk/id/eprint/18022/1/S%20Wane%20Training%20the%20UK%20Agri-food%20VoR.pdf)
+
+2. **RGB-D datasets for robotic perception in site-specific agricultural operations—A survey**  
+   - A comprehensive survey on the use of RGB-D data for agricultural robotics.  
+   - **Access:** [ScienceDirect Article](https://www.sciencedirect.com/science/article/pii/S0168169923004234)
+
+3. **Agricultural robotics: the future of robotic agriculture**  
+   - An open-access article on robotic vision and its applications in agriculture.  
+   - **Access:** [ArXiv PDF](https://arxiv.org/pdf/1806.06762)
+
+4. **Extending an Open Source Hardware Agri-Robot with Simulation and Plant Re-identification**  
+   - Focuses on the integration of computer vision modules in open-source agri-robotics platforms.  
+   - **Access:** [PDF Link](https://repository.lincoln.ac.uk/articles/conference_contribution/Extending_an_Open_Source_Hardware_Agri-Robot_with_Simulation_and_Plant_Re-identification/25178411/1/files/44459060.pdf)
+
+5. **Perception for Precision Agriculture Robotics using Deep Learning**  
+   - Explores the intersection of deep learning, computer vision, and weed management.  
+   - **Access:** [PDF Link](https://orbit.dtu.dk/files/366860120/phd_thesis_1_.pdf)
+
+6. **5G on the Farm: Evaluating Wireless Network Capabilities and Needs for Agricultural Robotics**  
+   - Examines how 5G and computer vision support agri-robotics.  
+   - **Access:** [MDPI PDF](https://www.mdpi.com/2075-1702/11/12/1064/pdf)
+
+7. **Applied Agri-Technologies for Agriculture 4.0**  
+   - Discusses advanced navigation systems and vision-based techniques in agriculture.  
+   - **Access:** [MDPI PDF](https://www.mdpi.com/2076-3417/13/7/4180/pdf)
+
+8. **Deep learning‐based crop row detection for infield navigation of agri‐robots**  
+   - Describes the implementation of crop row detection using classical and deep learning methods.  
+   - **Access:** [Wiley PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.22238)
+
+Would you like a detailed summary of any specific article?
